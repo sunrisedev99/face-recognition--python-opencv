@@ -1,4 +1,4 @@
-## How to install
+# How to install
 
 # 1. install cmake
 confirm adding environment variable
